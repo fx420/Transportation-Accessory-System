@@ -1,0 +1,6 @@
+tire,Brakes,tire,tire,20,650.0
+test,Brakes,test,test,20,650.0
+rope,Suspension,rope,rope,20,650.0
+string,Suspension,string,string,20,650.0
+engine,Exhaust,engine,engine,20,350.0
+pipe,Exhaust,pipe,pipe,10,650.0

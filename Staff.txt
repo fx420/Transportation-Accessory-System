@@ -1,0 +1,7 @@
+1,mx,mx,admin,mx
+2,1,1,admin,1
+3,a,a,admin,a
+4,qwe,qwe,admin,qwe
+5,kh,kh,admin,kh
+6,hy,hy,admin,hy
+7,er,er,admin,er

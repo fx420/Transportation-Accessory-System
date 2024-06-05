@@ -1,0 +1,9 @@
+1,kl,tire,Brakes,2,650.0,2024-04-12
+2,mx,test,Brakes,2,650.0,2024-04-20
+3,hy,rope,Suspension,2,650.0,2024-04-12
+4,kh,tire,Brakes,2,650.0,2024-04-12
+5,456,test,Brakes,2,350.0,2024-04-12
+6,test,pipe,Exhaust,1,650.0,2024-04-12
+7,mx,tire,Brakes,2,650.0,2024-04-20
+8,mx,tire,Brakes,2,650.0,2024-04-21
+9,mx,tire,Brakes,2,650.0,2024-04-21
